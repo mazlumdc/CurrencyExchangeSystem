@@ -67,7 +67,7 @@ CurrencyExchangeSystem/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/CurrencyExchangeSystem.git
+git clone https://github.com/mazlumdc/CurrencyExchangeSystem.git
 ```
 
 2. Open the solution in Visual Studio:
@@ -126,8 +126,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-[Your Name] - Vizja University  
-- GitHub: [@yourusername](https://github.com/yourusername)
+Mazlum Davut CELIK - Vizja University  
+- GitHub: [@mazlumdc](https://github.com/mazlumdc)
 - Course: Network Applications
 - University: Vizja University
 
