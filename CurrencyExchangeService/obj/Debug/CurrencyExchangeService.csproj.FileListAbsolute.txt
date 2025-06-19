@@ -1,0 +1,6 @@
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeService\bin\Debug\CurrencyExchangeService.dll.config
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeService\bin\Debug\CurrencyExchangeService.dll
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeService\bin\Debug\CurrencyExchangeService.pdb
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.dll
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.pdb
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeService\obj\Debug\CurrencyExchangeService.csprojResolveAssemblyReference.cache

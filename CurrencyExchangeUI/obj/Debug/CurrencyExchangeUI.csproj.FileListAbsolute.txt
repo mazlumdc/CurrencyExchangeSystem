@@ -1,0 +1,12 @@
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\bin\Debug\CurrencyExchangeUI.exe.config
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\bin\Debug\CurrencyExchangeUI.exe
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\bin\Debug\CurrencyExchangeUI.pdb
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\bin\Debug\CurrencyExchangeService.dll
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\bin\Debug\CurrencyExchangeService.pdb
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\obj\Debug\CurrencyExchangeUI.exe
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\obj\Debug\CurrencyExchangeUI.pdb
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\bin\Debug\CurrencyExchangeService.dll.config
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\obj\Debug\CurrencyExchangeUI.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\obj\Debug\CurrencyExchangeUI.exe.config
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\obj\Debug\CurrencyExchangeUI.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\network_app\CurrencyExchangeSystem\CurrencyExchangeUI\obj\Debug\Currency.1D1BAE7C.Up2Date
